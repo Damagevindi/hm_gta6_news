@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>GTA 6 News Aggregator</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root { --bg:#0b0b0f; --card:#17171f; --accent:#ff6b00; --text:#eee; --muted:#9a9aa5; }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); }
+  header { padding: 2rem 1rem 1rem; text-align:center; }
+  header h1 { margin:0; font-size:2.2rem; letter-spacing:1px; color: var(--accent); }
+  header p { color: var(--muted); margin:.4rem 0 0; }
+  #meta { text-align:center; color: var(--muted); font-size:.85rem; margin-bottom:1.5rem; }
+  main { max-width: 900px; margin: 0 auto; padding: 0 1rem 3rem; display:grid; gap:1rem; }
+  .card { background: var(--card); border-radius: 10px; padding:1rem 1.2rem; border-left:4px solid var(--accent); }
+  .card a { color:#fff; text-decoration:none; font-weight:600; font-size:1.05rem; }
+  .card a:hover { color: var(--accent); }
+  .card .src { display:flex; justify-content:space-between; color: var(--muted); font-size:.8rem; margin-top:.5rem; }
+  .card .summary { color:#c8c8d0; font-size:.9rem; margin-top:.5rem; line-height:1.4; }
+  .badge { background:#2a2a35; padding:.15rem .5rem; border-radius:5px; }
+  #status { text-align:center; color: var(--muted); padding:2rem; }
+  footer { text-align:center; color: var(--muted); font-size:.8rem; padding-bottom:2rem; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🎮 GTA 6 News Aggregator</h1>
+  <p>Aggregiert aus Google News, Reddit, IGN, Rockstar Newswire, PCGamer, Eurogamer, GameSpot</p>
+</header>
+<div id="meta"></div>
+<main id="news"><div id="status">Lade News…</div></main>
+<footer>Auto-aktualisiert via GitHub Actions · hm_gta6_news</footer>
+<script>
+async function load() {
+  try {
+    const res = await fetch('news.json', { cache: 'no-store' });
+    const data = await res.json();
+    document.getElementById('meta').textContent =
+      `${data.count} Einträge · zuletzt aktualisiert: ${new Date(data.updated_at).toLocaleString('de-DE')}`;
+    const main = document.getElementById('news');
+    main.innerHTML = '';
+    data.items.forEach(it => {
+      const div = document.createElement('div');
+      div.className = 'card';
+      const date = new Date(it.published).toLocaleString('de-DE');
+      div.innerHTML = `
+        <a href="${it.link}" target="_blank" rel="noopener">${it.title}</a>
+        <div class="summary">${(it.summary || '').replace(/<[^>]*>/g,'').slice(0,220)}</div>
+        <div class="src"><span class="badge">${it.source}</span><span>${date}</span></div>
+      `;
+      main.appendChild(div);
+    });
+  } catch (e) {
+    document.getElementById('news').innerHTML = '<div id="status">Fehler beim Laden der News.</div>';
+  }
+}
+load();
+</script>
+</body>
+</html>
