@@ -1,14 +1,158 @@
 {
-  "updated_at": "2026-11-22T18:46:49.810049+00:00",
+  "updated_at": "2026-11-23T01:12:56.401442+00:00",
   "count": 150,
   "items": [
     {
+      "id": "5bc1830e92de2638",
+      "title": "The Newest Apple Watch SE 3 Just Dropped to a New Price Low for Black Friday",
+      "link": "https://www.ign.com/articles/apple-watch-se-3-deal-november-2026",
+      "source": "IGN",
+      "published": "2026-11-23T00:10:00+00:00",
+      "summary": "The least expensive Apple Watch is now even cheaper."
+    },
+    {
+      "id": "4fcc4d59e6994500",
+      "title": "GTA 6 Dev Honors Late Mother With In-Game Memorial That Players Can Visit",
+      "link": "https://www.ign.com/articles/gta-6-dev-honors-late-mother-with-in-game-memorial-that-players-can-visit",
+      "source": "IGN",
+      "published": "2026-11-22T23:23:53+00:00",
+      "summary": "A GTA 6 developer has paid tribute to his late mother with an in-game memorial in Leonida that players can find and visit for themselves."
+    },
+    {
+      "id": "71d7d5290787f6fb",
+      "title": "The Alienware Aurora RTX 5070 Gaming PC Drops to $1,899 at Amazon for Black Friday",
+      "link": "https://www.ign.com/articles/alienware-aurora-rtx-5070-gaming-pc-deal-november-2026",
+      "source": "IGN",
+      "published": "2026-11-22T23:05:00+00:00",
+      "summary": "The same configuration is \"on sale\" for $2,660 at Dell/Alienware direct."
+    },
+    {
+      "id": "e64d1c1e70302eca",
+      "title": "The Bose QuietComfort Noise Canceling Headphone in Petal Pink Drop to a Mere $125 for Black Friday",
+      "link": "https://www.ign.com/articles/pink-bose-quietcomfort-noise-canceling-headphone-deal-november-2026",
+      "source": "IGN",
+      "published": "2026-11-22T22:45:00+00:00",
+      "summary": "Beats the previous lowest price by nearly 25%."
+    },
+    {
+      "id": "ed7d01f8ce81c559",
+      "title": "The Apple AirPods Pro 3 Wireless Noise Canceling Earbuds Drops to Its Final Black Friday Price on Amazon",
+      "link": "https://www.ign.com/articles/apple-airpods-pro-3-deal-black-friday-sale-2026",
+      "source": "IGN",
+      "published": "2026-11-22T22:15:00+00:00",
+      "summary": "New price low."
+    },
+    {
+      "id": "91df34dc64764f16",
+      "title": "Save $400 on Ecovacs' Flagship Robot Vacuum, the Deebot X12S OmniCyclone, for Black Friday",
+      "link": "https://www.ign.com/articles/ecovacs-deebot-x12s-omnicyclone-black-friday-2026",
+      "source": "IGN",
+      "published": "2026-11-22T22:05:00+00:00",
+      "summary": "Continuously self-cleaning mops, a self-sufficient base, and more leave floors sparkling while you enjoy the holiday season."
+    },
+    {
+      "id": "6bc3162cdd4d6758",
+      "title": "GTA 6 The End of the Road: Should you swim for it, or choose no surrender?",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-endings-end-of-the-road-swim-for-it-no-surrender/",
+      "source": "PCGamer",
+      "published": "2026-11-22T21:58:17+00:00",
+      "summary": "A choice (or two!) can lead to drastically different endings."
+    },
+    {
+      "id": "cd01f6af04a60331",
+      "title": "GTA 6: 209 GB angeblich geleakt! Doch hinter der PC-Version steckt eine gefährliche Falle - DailyGame.at",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WSnVtbFRVcFBMc213MTBGZWJrOW5VQ3hCRFRqa3JEdExTMk5DY3RLQjAzdXBRbjc0OGhuWlhPVXRxdWlzLWZnTENWd2c2eFFONmh1SVFGVkxuc3dsQVQxMVJfbEhWWHgxVG0xbkMtc3lzUQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-22T21:55:06+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5WSnVtbFRVcFBMc213MTBGZWJrOW5VQ3hCRFRqa3JEdExTMk5DY3RLQjAzdXBRbjc0OGhuWlhPVXRxdWlzLWZnTENWd2c2eFFONmh1SVFGVkxuc3dsQVQxMVJfbEhWWHgxVG0xbkMtc3lzUQ?oc=5\" target=\"_blank\">GTA 6: 209 GB angeblich geleakt! Doch hinter der PC-Version steckt eine gefährliche Falle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DailyGame.at</font>"
+    },
+    {
+      "id": "516eb73ef49b478c",
+      "title": "GTA 6: Deutschlands berühmtester Gehirnchirurg nennt 3 Gründe, warum die Open World uns so begeistert - GamePro",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzhjR205ZmxfSDhDTDBfcExrMjRqZWFPajUwTGk4V0MweEk2S2RoRlI0RDBrYmVqcFpTRjZLdDhzdEtxX09wQjBlWElZdjFhbm1Wd0NzSnU4UWZfZXM1Qk9yQWFXSmVnbUI2dEtIalRfY3Jqal93eWJORmI5dnRObTRzWGYxUQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-22T21:45:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzhjR205ZmxfSDhDTDBfcExrMjRqZWFPajUwTGk4V0MweEk2S2RoRlI0RDBrYmVqcFpTRjZLdDhzdEtxX09wQjBlWElZdjFhbm1Wd0NzSnU4UWZfZXM1Qk9yQWFXSmVnbUI2dEtIalRfY3Jqal93eWJORmI5dnRObTRzWGYxUQ?oc=5\" target=\"_blank\">GTA 6: Deutschlands berühmtester Gehirnchirurg nennt 3 Gründe, warum die Open World uns so begeistert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GamePr"
+    },
+    {
+      "id": "5835bf2bea43249a",
+      "title": "GTA 6: Alle Cheat-Codes für PS5 und Xbox und wie man sie freischaltet - Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaTREYnlGTmo2MkUxTnVSemoxSF80UFp0SVRrLXVSbXdjTGw2bm5MRlc3YldybFBBTWVyRmtSclUzSjdZM3l6TFR6VXZ0MkROd2ZjSHVFRndmMEZQTHl1bTJjNkdrREtnVzQ5VXpiRTJJZ0NLdDlSRXB2MlBBQm5vWTctQlItUDRKTFl2Yy1CYXI3MU9UWkpMWlVLZndGckE4Rl9jckNlZHVzbWpsT1g0NTI5aE5xMzdHSlZIVW16ZXQ2ZmNxRFRRTFZvUGVjVHg5QTZ3bA?oc=5",
+      "source": "Google News",
+      "published": "2026-11-22T20:47:44+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaTREYnlGTmo2MkUxTnVSemoxSF80UFp0SVRrLXVSbXdjTGw2bm5MRlc3YldybFBBTWVyRmtSclUzSjdZM3l6TFR6VXZ0MkROd2ZjSHVFRndmMEZQTHl1bTJjNkdrREtnVzQ5VXpiRTJJZ0NLdDlSRXB2MlBBQm5vWTctQlItUDRKTFl2Yy1CYXI3MU9UWkpMWlVLZndGckE4Rl9jckNlZHVzbWpsT1g0NTI5aE5xMzdHSlZIVW16ZXQ2ZmNxRFRRTFZvUGVjVHg5QTZ3bA?oc=5\" target=\"_blank\">GTA 6: Alle Cheat-Codes für PS5 und Xbox "
+    },
+    {
+      "id": "c66a455f24250e07",
+      "title": "Rockstar Says Darts Were Cut From GTA 6 Because It Didn't Have 'Unlimited Money or Time' to Make It 'Feel Proper'",
+      "link": "https://www.ign.com/articles/rockstar-says-darts-were-cut-from-gta-6-because-it-didnt-have-unlimited-money-or-time-to-make-it-feel-proper",
+      "source": "IGN",
+      "published": "2026-11-22T20:37:59+00:00",
+      "summary": "Rockstar Games crammed a lot of content into GTA 6, but fan-favorite mini-games like darts and bowling didn't make the cut because the team didn't have \"unlimited money or unlimited time\" to do those activities justice."
+    },
+    {
+      "id": "b0abbf6ffce76d5f",
+      "title": "Amazon and Target Launch '3 for 2' Sales on Books, Box Sets, and Vinyl for Black Friday",
+      "link": "https://www.ign.com/articles/black-friday-buy-2-get-1-free-deal-on-books-and-music-2026",
+      "source": "IGN",
+      "published": "2026-11-22T20:34:06+00:00",
+      "summary": ""
+    },
+    {
+      "id": "fcdd2c4a07df3786",
+      "title": "GTA 6 needed a dedicated team to make sure all its different body types could share animations: 'It was a huge team effort'",
+      "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needed-a-dedicated-team-to-make-sure-all-its-different-body-types-could-share-animations-it-was-a-huge-team-effort/",
+      "source": "PCGamer",
+      "published": "2026-11-22T20:16:21+00:00",
+      "summary": "Making sure your animations don't break while you're cultivating mass."
+    },
+    {
+      "id": "4df9c9d6f4586aa3",
+      "title": "GTA 6: Sechs Dinge, die in der PC-Version noch viel schöner aussehen dürften - GameStar",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DdjIwOHJsQnJxTnJOUWc2OEh5bEttbHFxY19KTGJnNlhNd2hzTHFyMVg2VW9Jd3BFQ1hOZ21BUkhPQVFtZXNrUFYyN2xlaUJzR0RTa19Ccy1HUXkxN1VTbkFtU19uYVhtenM5S0pJYw?oc=5",
+      "source": "Google News",
+      "published": "2026-11-22T20:00:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1DdjIwOHJsQnJxTnJOUWc2OEh5bEttbHFxY19KTGJnNlhNd2hzTHFyMVg2VW9Jd3BFQ1hOZ21BUkhPQVFtZXNrUFYyN2xlaUJzR0RTa19Ccy1HUXkxN1VTbkFtU19uYVhtenM5S0pJYw?oc=5\" target=\"_blank\">GTA 6: Sechs Dinge, die in der PC-Version noch viel schöner aussehen dürften</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GameStar</font>"
+    },
+    {
+      "id": "e5c5b96fcecff467",
+      "title": "Bizarrer Ort bei GTA VI: Horror-Sexpuppen greifen an - BILD",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdG0zYm9POWZfSDMtZXdDQjBXNEZSdmpyVi1Vb3BLTTlrTTJsRURJQXUyc2o0aHZyM2ZQRzR5X3h6cElETGdWRkVGT1d3ZHRBNmhsaXBYVF84Ym14Wmc5SWI2ME1FR1ZIUUh0UWVLa1NKX3lpVFl0UmtZSzJBMWhQNnZWQmFnZzZZWU1VNk1VT3NMRTg0Rm5QZ3dsN1dGZ0I0S3Vz?oc=5",
+      "source": "Google News",
+      "published": "2026-11-22T19:45:13+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOdG0zYm9POWZfSDMtZXdDQjBXNEZSdmpyVi1Vb3BLTTlrTTJsRURJQXUyc2o0aHZyM2ZQRzR5X3h6cElETGdWRkVGT1d3ZHRBNmhsaXBYVF84Ym14Wmc5SWI2ME1FR1ZIUUh0UWVLa1NKX3lpVFl0UmtZSzJBMWhQNnZWQmFnZzZZWU1VNk1VT3NMRTg0Rm5QZ3dsN1dGZ0I0S3Vz?oc=5\" target=\"_blank\">Bizarrer Ort bei GTA VI: Horror-Sexpuppen greifen an</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BILD</font>"
+    },
+    {
+      "id": "d682370e1a2830a4",
+      "title": "The Best Deals Today: Donkey Kong Bananza, Ghost of Yotei, Castlevania: Belmont's Curse, and More",
+      "link": "https://www.ign.com/articles/best-deals-for-november-22-2026",
+      "source": "IGN",
+      "published": "2026-11-22T19:31:07+00:00",
+      "summary": ""
+    },
+    {
+      "id": "cabb055ba98e218d",
+      "title": "GTA 6: Diese 6 Gadgets braucht euer Setup für Vice City - Giga",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUTEycjVCTFlFWmQ1TDBRVHNZNGJHNEJmc1hsc1dhQWppMTIxRG9ER19ZdkRjUXBDSXpCd3o0WDVDTjhMS3g4cXBqaFJLaU44YVFRUnZrc0NZUmhOVVZEekV2UklxWW01UnUyV1ZTR1EzNURwejlZXzQ4aUZyRDBadXpwUVdneGlQcGMwUWxXdTVXM2F3Yk1IdFBKQ3NTUUg0elBxTlRaUUU4TkNfV2c?oc=5",
+      "source": "Google News",
+      "published": "2026-11-22T18:43:35+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPUTEycjVCTFlFWmQ1TDBRVHNZNGJHNEJmc1hsc1dhQWppMTIxRG9ER19ZdkRjUXBDSXpCd3o0WDVDTjhMS3g4cXBqaFJLaU44YVFRUnZrc0NZUmhOVVZEekV2UklxWW01UnUyV1ZTR1EzNURwejlZXzQ4aUZyRDBadXpwUVdneGlQcGMwUWxXdTVXM2F3Yk1IdFBKQ3NTUUg0elBxTlRaUUU4TkNfV2c?oc=5\" target=\"_blank\">GTA 6: Diese 6 Gadgets braucht euer Setup für Vice City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\""
+    },
+    {
       "id": "e31f551f87c21f71",
-      "title": "GTA 6 discourse is already suffering from the flat earther effect",
+      "title": "GTA 6 discourse is suffering from the flat earther effect",
       "link": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-discourse-is-already-suffering-from-the-flat-earther-effect/",
       "source": "PCGamer",
       "published": "2026-11-22T18:43:01+00:00",
       "summary": "Didn't you hear? You can't even steal cars anymore."
+    },
+    {
+      "id": "84dcc2e1e8a843cc",
+      "title": "GTA 6 - Unheimlicher Funkturm-NPC wirkt unsterblich - PlayCentral",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OVm02OXpUMlZ3OEVWWHJyaUxSdGM1X21jaDZpZFZqeWtmNUtOVnp0X2hVWHNva0I1NjV1ZUJqVWpqZjhJTjVWcE5Uc3c0NHpjTHZDUkRveDBQbDRRV19ZaTZmX2pWbVlLcW8tSnJQYlk0bmpkd3RZQ2FB?oc=5",
+      "source": "Google News",
+      "published": "2026-11-22T18:40:27+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5OVm02OXpUMlZ3OEVWWHJyaUxSdGM1X21jaDZpZFZqeWtmNUtOVnp0X2hVWHNva0I1NjV1ZUJqVWpqZjhJTjVWcE5Uc3c0NHpjTHZDUkRveDBQbDRRV19ZaTZmX2pWbVlLcW8tSnJQYlk0bmpkd3RZQ2FB?oc=5\" target=\"_blank\">GTA 6 - Unheimlicher Funkturm-NPC wirkt unsterblich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PlayCentral</font>"
     },
     {
       "id": "71ad2f29be78b901",
@@ -17,6 +161,14 @@
       "source": "IGN",
       "published": "2026-11-22T18:15:04+00:00",
       "summary": "Rockstar Games has opened up about GTA 6 protagonist Jason's viral personality and the two specific inspirations that helped bring him to life."
+    },
+    {
+      "id": "0a583d6bbb79c6b9",
+      "title": "Videospiel GTA 6 erzielt laut Entwickler weitere Rekorde - Deutschlandfunk Kultur",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2RZVnpjSGYza3JybzJ5b1ctcG5JMlB1WU5XNktabWlqSWw3Sk9iZ19ZYUtfX0c0UUMtVFlKQnRXUWZsMmoxRlpNbzNpWDktcDhjNlB4U040SW1LQ1dDQXROS1VJNVRfcGVJaE0wY01TbVRReWRJRzVIQTZhUld2QVFudjU1SE1zTElaNW5EZmNiN2k5MEtGV0lCbE95bzRLTG9iYQ?oc=5",
+      "source": "Google News",
+      "published": "2026-11-22T18:03:39+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2RZVnpjSGYza3JybzJ5b1ctcG5JMlB1WU5XNktabWlqSWw3Sk9iZ19ZYUtfX0c0UUMtVFlKQnRXUWZsMmoxRlpNbzNpWDktcDhjNlB4U040SW1LQ1dDQXROS1VJNVRfcGVJaE0wY01TbVRReWRJRzVIQTZhUld2QVFudjU1SE1zTElaNW5EZmNiN2k5MEtGV0lCbE95bzRLTG9iYQ?oc=5\" target=\"_blank\">Videospiel GTA 6 erzielt laut Entwickler weitere Rekorde</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deutschland"
     },
     {
       "id": "5120216cca3c70fd",
@@ -99,6 +251,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQMDd3bEwzTzVyN1I0WXpZSTF4WGExWk1Cekc1X3hfRGdsTjJpUHJrZEQ0djhISE9qMU5XcnBfbzZjeWVvZFlfeGJSVGFxUzlSS2p1WlRHbkhCZWlWSEhDNW1VMWVPSGVYTVZacDNqbmJSR196Ymt6U3lOcTM0S0NmaFNnMWlISnJ5b21TUlVkQ18wNjdZTTlLZlhkZUdWUEtabW9EZnNn?oc=5\" target=\"_blank\">Wir zeigen euch die versteckten Gameplay-Mechaniken von GTA 6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Game"
     },
     {
+      "id": "81d10bdec9330c94",
+      "title": "GTA 6 am Smartphone spielen: So funktioniert es - Teltarif",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1pES242VDV6akVFZnNCNndQZ0VzeHROamMyUUNSVUt3bzJuN0dESDktLXo2b2FSNVRXRk5vRDhqYUlHRTNBcTFCWlNON1RIcEl2MVlqX1Foc0lnZENDdUVRVHhYaE1aWEdJU3czRGFPeElPcF91V3BFT211aS1zZWRteE15RVAxajhEUWdFNGxmTkpSLUE?oc=5",
+      "source": "Google News",
+      "published": "2026-11-22T17:00:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1pES242VDV6akVFZnNCNndQZ0VzeHROamMyUUNSVUt3bzJuN0dESDktLXo2b2FSNVRXRk5vRDhqYUlHRTNBcTFCWlNON1RIcEl2MVlqX1Foc0lnZENDdUVRVHhYaE1aWEdJU3czRGFPeElPcF91V3BFT211aS1zZWRteE15RVAxajhEUWdFNGxmTkpSLUE?oc=5\" target=\"_blank\">GTA 6 am Smartphone spielen: So funktioniert es</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Teltarif</font>"
+    },
+    {
       "id": "459110d421fe7c81",
       "title": "Former Rockstar environment artist breaks silence: GTA 6 is 'generally stunning,' but Red Dead 2 might have had better rivers",
       "link": "https://www.pcgamer.com/games/grand-theft-auto/former-rockstar-environment-artist-breaks-silence-gta-6-is-generally-stunning-but-red-dead-2-might-have-had-better-rivers/",
@@ -113,6 +273,14 @@
       "source": "IGN",
       "published": "2026-11-22T16:41:30+00:00",
       "summary": "Director Luca Guadagnino has confirmed his American Psycho remake is officially dead."
+    },
+    {
+      "id": "fd15fca79a8053b7",
+      "title": "GTA 6: Diese eine Einstellung solltet ihr unbedingt noch vor Spielstart ändern - 4P.de",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQejJ1ZWgxakczZjBPckNlVVpUSktTYXVJU0xnUzlBOFF0eWJDYnEzbjN6QXJNZTNId1RrUy1MemFjNDNkdF9BdmRnTXE3Wm5BdWk0N3EtbkxiYl9HLUdXNmEwU2NCTWZVaXdmOHJwc3IwSjFmQWdKSWZUMGlXSTNWLVhfVllObl92TUFqN3FDT3I?oc=5",
+      "source": "Google News",
+      "published": "2026-11-22T16:26:26+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQejJ1ZWgxakczZjBPckNlVVpUSktTYXVJU0xnUzlBOFF0eWJDYnEzbjN6QXJNZTNId1RrUy1MemFjNDNkdF9BdmRnTXE3Wm5BdWk0N3EtbkxiYl9HLUdXNmEwU2NCTWZVaXdmOHJwc3IwSjFmQWdKSWZUMGlXSTNWLVhfVllObl92TUFqN3FDT3I?oc=5\" target=\"_blank\">GTA 6: Diese eine Einstellung solltet ihr unbedingt noch vor Spielstart ändern</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">4P.de</font>"
     },
     {
       "id": "d574c90184a1aa08",
@@ -251,6 +419,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1TaXlPSE1FZDBmVmhKeVlKaVp1UGJIa1VoRkVpV3JtX3hENWFwZTdHQ0steEtHX2ctQU12cFExUWdFampXSTVieDhkY0NDV0hRSzdwMXBMUVBlTTV5WjBhMEF6YmVBWUplb1NzT3FrM2RvVi10Q204VWFTeVo?oc=5\" target=\"_blank\">GTA 6: Fast jeder stellt HDR falsch ein - ich zeige euch, wie es richtig geht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GamePro</font>"
     },
     {
+      "id": "4d738556fc25b606",
+      "title": "CDU trifft GTA: Fünf Sterne für die Linke - taz.de",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvbW04eEt1X0R2dkk4NXloeVI4NkMtV0N1TkFFMXRUTkEtQ1BGekxnWHBnbVlZMnI4emZRYlltVTQ4eUJ6aFVNWm52enMwWUsw?oc=5",
+      "source": "Google News",
+      "published": "2026-11-22T12:43:36+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvbW04eEt1X0R2dkk4NXloeVI4NkMtV0N1TkFFMXRUTkEtQ1BGekxnWHBnbVlZMnI4emZRYlltVTQ4eUJ6aFVNWm52enMwWUsw?oc=5\" target=\"_blank\">CDU trifft GTA: Fünf Sterne für die Linke</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">taz.de</font>"
+    },
+    {
       "id": "5da5fc079ede84b7",
       "title": "Wir wollen von euch wissen: Wie gefällt euch GTA 6 bisher? - GameStar",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjl5cFNFNDVuYUthNkZ2Y0hTMG1WampSOG44cXVxM21Tc19ETzBwVFV4OXNyMFhTOEY4RUdPakUtQkkxMzlqcnhHWms3Vl9nbGpjdElHS09wcUVkWmxrZXBsNmhYNlpIUjRrMkhUd0ZNYjJtUm5RSEhQejZXZWI1T3Z6SnVSdmRZM1cwZFRSRTBmdVZ6c1NfVTdvd0FJR0FBNm0yaw?oc=5",
@@ -355,6 +531,14 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSk1XZnJZRGdESTBNV0xqRFltdWlXTjBTbGNJd0xIMzZaN21tRjlfZDA3dmdCXzBHX25vZUdRREpRckRrVllVMkxIenk0dDdtM1QtSHcweVdPRDJtMHB0R1dMS1RWaU5BRm0xbjVCWDJ5eENQZkFRUk1mX2JEZW5WQzVJcHMyZ3pyaDN4UldfR0N6ZkU4Qy1GSURFMlpvMS1KV3lueWJZalF6LUNxMHRPNGZ6Q1djTXIzby0yR2ZnZ3dFUQ?oc=5\" target=\"_blank\">Grand Theft Auto VI: Macht auch ihr Leonida unsicher oder schreck"
     },
     {
+      "id": "24f376406216fd9f",
+      "title": "GTA 6 mitentwickelt und danach gekündigt: Rockstar Games entließ 34 Mitarbeiter – Berliner Weizenbaum-Institut untersucht den Skandal - Secret Berlin",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQakNEUVpFVVo0NHpyWF9ZRTRlbDRhSnJwRWVTM3Z6MlJianpwSHpNWGtldWRaTjdNS2JVU29JTnpfZTBGSldGYk94MXV1dkFqQ1pvb29ULWREMmh4ODJEcGdUbDF2bllJSFJHWEZfNFlGd1ZoR0FLd05OYjBhOWstOWhzUVlMUmc?oc=5",
+      "source": "Google News",
+      "published": "2026-11-22T11:00:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQakNEUVpFVVo0NHpyWF9ZRTRlbDRhSnJwRWVTM3Z6MlJianpwSHpNWGtldWRaTjdNS2JVU29JTnpfZTBGSldGYk94MXV1dkFqQ1pvb29ULWREMmh4ODJEcGdUbDF2bllJSFJHWEZfNFlGd1ZoR0FLd05OYjBhOWstOWhzUVlMUmc?oc=5\" target=\"_blank\">GTA 6 mitentwickelt und danach gekündigt: Rockstar Games entließ 34 Mitarbeiter – Berliner Weizenbaum-Institut untersucht den Skandal</a>&nbsp;&"
+    },
+    {
       "id": "f555bfcf5e103d0a",
       "title": "So erspielt ihr das beste Happy End in GTA 6 – und diese tödlichen Fehler müsst ihr zwingend vermeiden - Eurogamer.de",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PLV9YNmczMndURTRDV1B4blo2LVU3UDZSOVkwVnkySGxSZk5aU3laWW1yR0FwRWxmbEZGVi0wNkRUUEI1dHh2UUVXYnJ0QjVDaVVfYllDXzhnSUpGUldzcjlmS3NoeDhl?oc=5",
@@ -449,14 +633,6 @@
       "source": "Google News",
       "published": "2026-11-22T09:05:00+00:00",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNVTUxNDdUSjg1NUpsSkRoQS1lRlhLR19sblQzQk9kVjBuZTVBUlY4QnlINmJrVHYyZndfZUVJUlRjZllKeUViRlNJZTFtMmtWTjB6YjVheTZwdzlRazRqdGVRZEdyXzRTQ2pNNklvS3BLUk1fQ0hKWFVBN19fdk1NWDUtQUozRTZHeDk0clpLampENzgtdG5iamlsUVRkbmJnODEwY01jVQ?oc=5\" target=\"_blank\">Ausgerechnet im Heimatland der PlayStation ist GTA 6 absolut nicht auf Rekordkurs</a>&nbsp;&nbsp;<fon"
-    },
-    {
-      "id": "0a583d6bbb79c6b9",
-      "title": "Videospiel GTA 6 erzielt laut Entwickler weitere Rekorde - Deutschlandfunk Kultur",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2RZVnpjSGYza3JybzJ5b1ctcG5JMlB1WU5XNktabWlqSWw3Sk9iZ19ZYUtfX0c0UUMtVFlKQnRXUWZsMmoxRlpNbzNpWDktcDhjNlB4U040SW1LQ1dDQXROS1VJNVRfcGVJaE0wY01TbVRReWRJRzVIQTZhUld2QVFudjU1SE1zTElaNW5EZmNiN2k5MEtGV0lCbE95bzRLTG9iYQ?oc=5",
-      "source": "Google News",
-      "published": "2026-11-22T08:34:24+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2RZVnpjSGYza3JybzJ5b1ctcG5JMlB1WU5XNktabWlqSWw3Sk9iZ19ZYUtfX0c0UUMtVFlKQnRXUWZsMmoxRlpNbzNpWDktcDhjNlB4U040SW1LQ1dDQXROS1VJNVRfcGVJaE0wY01TbVRReWRJRzVIQTZhUld2QVFudjU1SE1zTElaNW5EZmNiN2k5MEtGV0lCbE95bzRLTG9iYQ?oc=5\" target=\"_blank\">Videospiel GTA 6 erzielt laut Entwickler weitere Rekorde</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deutschland"
     },
     {
       "id": "bec92c409a4e571b",
@@ -968,7 +1144,7 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdDlKZ3JCN3o1XzdJUTNpSllUQU42STNnXzcwY1hwTENIeWRfR1N2alNQeV9kZXlDRmJPLWJSMzVHeXZ1a3E4MGRNOENwRnN6dThvUHZMZEpFV3haSDlSeDh6ZmRkcmljNUk1MGVCS0ExNlU3VUR3Qlpldy05YmRXWFRlSlpsY1cycDVlc1lIQ3ktYnJPNXlHZFR6aE1JZw?oc=5",
       "source": "Google News",
       "published": "2026-11-21T12:16:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPdDlKZ3JCN3o1XzdJUTNpSllUQU42STNnXzcwY1hwTENIeWRfR1N2alNQeV9kZXlDRmJPLWJSMzVHeXZ1a3E4MGRNOENwRnN6dThvUHZMZEpFV3haSDlSeDh6ZmRkcmljNUk1MGVCS0ExNlU3VUR3Qlpldy05YmRXWFRlSlpsY1cycDVlc1lIQ3ktYnJPNXlHZFR6aE1JZw?oc=5\" target=\"_blank\">Start von „GTA 6“ schlägt sämtliche Entertainment-Rekorde</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">heise online</font"
+      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPdDlKZ3JCN3o1XzdJUTNpSllUQU42STNnXzcwY1hwTENIeWRfR1N2alNQeV9kZXlDRmJPLWJSMzVHeXZ1a3E4MGRNOENwRnN6dThvUHZMZEpFV3haSDlSeDh6ZmRkcmljNUk1MGVCS0ExNlU3VUR3Qlpldy05YmRXWFRlSlpsY1cycDVlc1lIQ3ktYnJPNXlHZFR6aE1JZw?oc=5\" target=\"_blank\">Start von „GTA 6“ schlägt sämtliche Entertainment-Rekorde</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">heise onli"
     },
     {
       "id": "ba31abfee1fa186d",
@@ -1025,182 +1201,6 @@
       "source": "Google News",
       "published": "2026-11-21T11:10:00+00:00",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQZTZPWUZ1aWVXazFWeTF3UWdJRWpwTXhNQS1odk1oSUZ4NkxiaDB0cmx1WDJyaUdVQXoyQ3RZUmtFMXZmM01fLUlzQVhDVzR6dmRqQUdLekVKTDhUTHR6aVdLcWVIUTVObEhNckhKTFNva0szX18wQkFsRkRQREJKRjVPb3ZPZTBCMEdVb1JEODBiMVFVLTl3QWlEXzlzazRUOUh5ZFRuYw?oc=5\" target=\"_blank\">GTA 6: Katsching! Rockstar kassiert auch nachträglich im Singleplayer</a>&nbsp;&nbsp;<font color=\"#6f"
-    },
-    {
-      "id": "5eb51534d822fbe4",
-      "title": "Dattelner Gamer über GTA 6: „Die Identität ist verloren gegangen“ - Dattelner Morgenpost",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVkxZdnJzRHBIa1RkemxyVG9kSE12ZVdHb012akRtb1hYSGRDeml2bFVNczRYX3ZNNFUxSG9NazhUN3E2V0JGUERZVS1WaXN2VnBJc3doanlJcUhhNGY5UnRwQWFqM0FJdTRUd1drZGxkUHhlZUFuOW55dnppa0FLSmRwckxibXJtbW9xd1FEbzI5QU5fWHQ2STg2T3E1djdvRlJFSHpvVm9vRWhyT3phaTFDOXJOVnlQODYwdG5ZdjFEZ1QwUDM4V0pB?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T11:00:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOVkxZdnJzRHBIa1RkemxyVG9kSE12ZVdHb012akRtb1hYSGRDeml2bFVNczRYX3ZNNFUxSG9NazhUN3E2V0JGUERZVS1WaXN2VnBJc3doanlJcUhhNGY5UnRwQWFqM0FJdTRUd1drZGxkUHhlZUFuOW55dnppa0FLSmRwckxibXJtbW9xd1FEbzI5QU5fWHQ2STg2T3E1djdvRlJFSHpvVm9vRWhyT3phaTFDOXJOVnlQODYwdG5ZdjFEZ1QwUDM4V0pB?oc=5\" target=\"_blank\">Dattelner Gamer über GTA 6: „Die Identität ist verloren"
-    },
-    {
-      "id": "7a1be7f8361f8b12",
-      "title": "GTA 6: Cyberleek ist zurück und hat das Unvorstellbare getan - die Xbox-Version veröffentlicht - GamePro",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WM1czNEY4REVISV8wTlN5MWhxSEliSF9CcklEQ19jXzhIX3owSm13aU5ZRV9VeHluOFROWndaV3pJdUJaUC1INXR4dGJSaURUU2haTElzdWhiT2wzbVZnUG1wdkx0bVVjYUwtaTI5WmQ0X3c2Mzh6ZzBR?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T10:56:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1WM1czNEY4REVISV8wTlN5MWhxSEliSF9CcklEQ19jXzhIX3owSm13aU5ZRV9VeHluOFROWndaV3pJdUJaUC1INXR4dGJSaURUU2haTElzdWhiT2wzbVZnUG1wdkx0bVVjYUwtaTI5WmQ0X3c2Mzh6ZzBR?oc=5\" target=\"_blank\">GTA 6: Cyberleek ist zurück und hat das Unvorstellbare getan - die Xbox-Version veröffentlicht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GamePro</font>"
-    },
-    {
-      "id": "b4fb277f9acca1a0",
-      "title": "GTA 6 legt einen Verkaufsstart hin, der ihm gleich zwei Weltrekorde sichert - GameStar",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlo0dUdzOEFydDRMRHpzdEt1YVJ6WjBMUndLVmdoSHp0OW9tVXI4S1FwaC1aZXdjdWk3QWtwWnZRS1dfZG9DZlV4SjcyQUI3VnBscjd6RG42QXZFcFZpODgzd3BoMGJwRUJjUHJsOHpuQ2poeXBBU3RxdFdDLV9oekRSZ0ltZFdrMkZQNWU0ajdkbmw0MUhxa2NhZUpDcUYxVXp2T3JvLUZhcnJSbzVDVm84T2dNZnNONVM3Q0VjbzhHdnhjY3JxWWZhVQ?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T10:56:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlo0dUdzOEFydDRMRHpzdEt1YVJ6WjBMUndLVmdoSHp0OW9tVXI4S1FwaC1aZXdjdWk3QWtwWnZRS1dfZG9DZlV4SjcyQUI3VnBscjd6RG42QXZFcFZpODgzd3BoMGJwRUJjUHJsOHpuQ2poeXBBU3RxdFdDLV9oekRSZ0ltZFdrMkZQNWU0ajdkbmw0MUhxa2NhZUpDcUYxVXp2T3JvLUZhcnJSbzVDVm84T2dNZnNONVM3Q0VjbzhHdnhjY3JxWWZhVQ?oc=5\" target=\"_blank\">GTA 6 legt einen Verkaufsstart hin, der ihm gleich zw"
-    },
-    {
-      "id": "a8ac810ec01ae5d7",
-      "title": "Wie Bayerns Jugendschützer vor GTA 6 warnen - Augsburger Allgemeine",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRk1JR2xSc1V0WTJyNGt3Y0ItLTA0OURPOGNnbndhU3RvWTFKUUZMQ0llR2JlNFo1TFhwVVMxNS1wenZFLXlnVlRRUG1nTEVCSUxwM0h5c1NSdUZfcm1yOEN3a3J4akg3ZGhIMHJlSHZyZGpIVTdSbDNYZEkxUjZEV2l6VWZmNzRtMlhtWFhsZXRJQ0lETlhyUk4wR3lZSUNfek1aVHZtejhfdw?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T10:55:11+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRk1JR2xSc1V0WTJyNGt3Y0ItLTA0OURPOGNnbndhU3RvWTFKUUZMQ0llR2JlNFo1TFhwVVMxNS1wenZFLXlnVlRRUG1nTEVCSUxwM0h5c1NSdUZfcm1yOEN3a3J4akg3ZGhIMHJlSHZyZGpIVTdSbDNYZEkxUjZEV2l6VWZmNzRtMlhtWFhsZXRJQ0lETlhyUk4wR3lZSUNfek1aVHZtejhfdw?oc=5\" target=\"_blank\">Wie Bayerns Jugendschützer vor GTA 6 warnen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Augsburger Allge"
-    },
-    {
-      "id": "2d66dae749979404",
-      "title": "GTA 6 : Was die Entwicklung gekostet haben soll – und welche Zahlen belastbar sind - PCGH",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT183b0lKWHIycEV5RWVvenBKbV9LcVlNZjBPdzRZdHJYX0NLZkRLd1pRcThfQi1NTGlxaGRaWUFFNkNUeFJRQWxFSE0wRjNDMnk1eDFsbGc1Qkhsb0t4d2s0Yl9sNEc0RlRkZXA5MzA0WmVra0lhME9OdmtPVXZQOWtzUU90RHRHQmtocVAzeG5LeDRSVmFMdEhIaFZsT3FMbWh5LVB1SThadWRGaHc3ajJFTXktUQ?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T10:45:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQT183b0lKWHIycEV5RWVvenBKbV9LcVlNZjBPdzRZdHJYX0NLZkRLd1pRcThfQi1NTGlxaGRaWUFFNkNUeFJRQWxFSE0wRjNDMnk1eDFsbGc1Qkhsb0t4d2s0Yl9sNEc0RlRkZXA5MzA0WmVra0lhME9OdmtPVXZQOWtzUU90RHRHQmtocVAzeG5LeDRSVmFMdEhIaFZsT3FMbWh5LVB1SThadWRGaHc3ajJFTXktUQ?oc=5\" target=\"_blank\">GTA 6 : Was die Entwicklung gekostet haben soll – und welche Zahlen belastbar sin"
-    },
-    {
-      "id": "7b0a94e7dd7eb44c",
-      "title": "GTA 6 im Test: Das beste Videospiel aller Zeiten? - 4P.de",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZRFl4ZkZMN0stVkxrdXdSdU9XNU9rakhpQjRSRF9CbWZkRWJsN2VNTzBhNUprMktmb0tuVVZpR1RvcEcxcTR1WW5yNW5OelpCSTBpUWloXzRGeWV6eXlXR3FLQjE5QjMw?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T10:36:36+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZRFl4ZkZMN0stVkxrdXdSdU9XNU9rakhpQjRSRF9CbWZkRWJsN2VNTzBhNUprMktmb0tuVVZpR1RvcEcxcTR1WW5yNW5OelpCSTBpUWloXzRGeWV6eXlXR3FLQjE5QjMw?oc=5\" target=\"_blank\">GTA 6 im Test: Das beste Videospiel aller Zeiten?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">4P.de</font>"
-    },
-    {
-      "id": "29538eb0632006ca",
-      "title": "GTA 6 löschen für ein Gratis-Spiel? Devolver macht es wirklich - PC Games (DE)",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXppdU43SHNfUERXaDhWczlidW04aUFNdUltZVlMb1czd29wRHp1RzdWTXc5SUlTN3lSMlBDSGJIMlpvVERROVJxQ055ekV5QThZSG52TVE0bXpLZnA4QVNfQU1BanZTeWpRem9VY2t1d3pVYmpKaHhzMnhla3d0QVp1NW50Z0Job1dUS21WaDJuUQ?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T10:30:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXppdU43SHNfUERXaDhWczlidW04aUFNdUltZVlMb1czd29wRHp1RzdWTXc5SUlTN3lSMlBDSGJIMlpvVERROVJxQ055ekV5QThZSG52TVE0bXpLZnA4QVNfQU1BanZTeWpRem9VY2t1d3pVYmpKaHhzMnhla3d0QVp1NW50Z0Job1dUS21WaDJuUQ?oc=5\" target=\"_blank\">GTA 6 löschen für ein Gratis-Spiel? Devolver macht es wirklich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PC Games (DE)</font>"
-    },
-    {
-      "id": "e103726cbad41cf2",
-      "title": "GTA 6 stellt neuen Entertainment-Rekord auf und übertrifft sämtliche Prognosen - Eurogamer.de",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVXdWcFZBX2Y2Z3c3WGtaaFRsaU9zUzJ1c0tNa1ZPc01yMlp5RGwxeDBWVGVrSWJiQWFTcENablotTjRfZ3F3TEljemh1QVZweThyR184V2RXVXRFcTl6RU1qbW1SSFUyT3lwLUZzN1JITEQ5cDNKaklqTG9veFI5TnpueGNVbDg?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T10:19:20+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQVXdWcFZBX2Y2Z3c3WGtaaFRsaU9zUzJ1c0tNa1ZPc01yMlp5RGwxeDBWVGVrSWJiQWFTcENablotTjRfZ3F3TEljemh1QVZweThyR184V2RXVXRFcTl6RU1qbW1SSFUyT3lwLUZzN1JITEQ5cDNKaklqTG9veFI5TnpueGNVbDg?oc=5\" target=\"_blank\">GTA 6 stellt neuen Entertainment-Rekord auf und übertrifft sämtliche Prognosen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eurogamer.de</font>"
-    },
-    {
-      "id": "381564045a1bb7c6",
-      "title": "Gaming: GTA 6 spielte am ersten Tag 3,79 Milliarden US-Dollar ein - WirtschaftsWoche",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVHFoX052YS1YbmpPS2FwOHh2Q0dJT0ZLNFQ1VEtXV3NNdzVKTF9NUWp0MUJYcEU5eWVEOU5wOEJxYmR0MmVJWDhmOTVEOWZobDFjZzFtdTJDWnZhcFhrYWlYN3BPRDNSRmMzWGFpNVdsd3dETl8tN2ZYbzBva3dka3I3UVFTVzAxaGNsNW1QUjlFQ0RVQjlweGY1NHZFX21mX0RrZ1ZzY3BmaUdNRGhPeG1Wbi00LTFCb3R2ZTBydDFRQQ?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T10:06:23+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVHFoX052YS1YbmpPS2FwOHh2Q0dJT0ZLNFQ1VEtXV3NNdzVKTF9NUWp0MUJYcEU5eWVEOU5wOEJxYmR0MmVJWDhmOTVEOWZobDFjZzFtdTJDWnZhcFhrYWlYN3BPRDNSRmMzWGFpNVdsd3dETl8tN2ZYbzBva3dka3I3UVFTVzAxaGNsNW1QUjlFQ0RVQjlweGY1NHZFX21mX0RrZ1ZzY3BmaUdNRGhPeG1Wbi00LTFCb3R2ZTBydDFRQQ?oc=5\" target=\"_blank\">Gaming: GTA 6 spielte am ersten Tag 3,79 Milliarden US-Dollar ein"
-    },
-    {
-      "id": "9b269bb89882e952",
-      "title": "Yuja Wang in GTA 6: Vom Klavier an die Gaming Konsole - BR Klassik",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeWQ0VDlPSnNXMXNDN0pXRDFIOW9pdklfTWtER0RWdk04SlNfUDVMSmpPZUxWQXMwSUZqdlFLNkRzX01tVWdTc1daek9LY2lVZUpTR2UwUFFJZEZ2YXFHM2laS3VTdW5nZTU3VVBYbk1rMHl1OHU2UTZZeWRSYjBZWjZOSDh1SDF0YTZWTU9aazFNNExhbWQzUUtvV2NLakZkQ1JCQjZjQWpkcTZXVjRIbG1B?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T10:04:33+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPeWQ0VDlPSnNXMXNDN0pXRDFIOW9pdklfTWtER0RWdk04SlNfUDVMSmpPZUxWQXMwSUZqdlFLNkRzX01tVWdTc1daek9LY2lVZUpTR2UwUFFJZEZ2YXFHM2laS3VTdW5nZTU3VVBYbk1rMHl1OHU2UTZZeWRSYjBZWjZOSDh1SDF0YTZWTU9aazFNNExhbWQzUUtvV2NLakZkQ1JCQjZjQWpkcTZXVjRIbG1B?oc=5\" target=\"_blank\">Yuja Wang in GTA 6: Vom Klavier an die Gaming Konsole</a>&nbsp;&nbsp;<font color=\"#6f6f"
-    },
-    {
-      "id": "c913e38f0a29ccbc",
-      "title": "GTA 6 ohne PC: Wartet ihr auf die bessere Plattform oder spielt ihr auf Konsole? - PCGH",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSkYtSFlnRk5NS09UWVNCOGx6eks1Q2ZCem1QcTdNb0Q5Z1NUUUhCMDNGdkpOSGFfMmhJSW83TFYtRjhHOEdfV0NJdjdVU2xORTlMLWF3S2F6Wm5kVVlzX3hpOVZBR0RwMEZIdEZXMGR2N19XMy1YaWtNU0hkbUdCSGYwcThxZ0FBN3d6aW1VX3c5TmtWeGVNMl9DZ3NDcWpSSE93RGp5ZmcxNjVNZVQxRQ?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T10:00:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPSkYtSFlnRk5NS09UWVNCOGx6eks1Q2ZCem1QcTdNb0Q5Z1NUUUhCMDNGdkpOSGFfMmhJSW83TFYtRjhHOEdfV0NJdjdVU2xORTlMLWF3S2F6Wm5kVVlzX3hpOVZBR0RwMEZIdEZXMGR2N19XMy1YaWtNU0hkbUdCSGYwcThxZ0FBN3d6aW1VX3c5TmtWeGVNMl9DZ3NDcWpSSE93RGp5ZmcxNjVNZVQxRQ?oc=5\" target=\"_blank\">GTA 6 ohne PC: Wartet ihr auf die bessere Plattform oder spielt ihr auf Konsole?</a>&nbsp"
-    },
-    {
-      "id": "e354b73ab45ca6ab",
-      "title": "GTA 6: Ein Hund auf einem Jetski führt euch zu einem geheimen Schatz - PC Games (DE)",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOHd1VzhKT0xFZmhXdms4WW5vdzlQLVNOcHo1a2xGZzZ2aU85N2pDNVY1YmF2VjAtU2dYU2FaN19qaF9Bei1FOS02MkFDZTFNaEc0aGJZc2VHcUVKSUdYeFhHSm9QZ3U2VGNkYzZ6TGRoR0pjaFFBZGpjMW80OEhEblZ2VkNmQXpCZEZTRzRWdXoxMlR3ZzR0dWQ0OEFCTmFC?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T10:00:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQOHd1VzhKT0xFZmhXdms4WW5vdzlQLVNOcHo1a2xGZzZ2aU85N2pDNVY1YmF2VjAtU2dYU2FaN19qaF9Bei1FOS02MkFDZTFNaEc0aGJZc2VHcUVKSUdYeFhHSm9QZ3U2VGNkYzZ6TGRoR0pjaFFBZGpjMW80OEhEblZ2VkNmQXpCZEZTRzRWdXoxMlR3ZzR0dWQ0OEFCTmFC?oc=5\" target=\"_blank\">GTA 6: Ein Hund auf einem Jetski führt euch zu einem geheimen Schatz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PC Ga"
-    },
-    {
-      "id": "614c824d9198415b",
-      "title": "Rockstar Games: GTA 6 verkauft 32,5 Millionen Stück und bricht alle Rekorde - Golem",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc19LTHVLQlFHWFpZMVVxakVUaUFIUGdFSU5GazdMUGpLc0ZFQlpRR1hGSWxXbEd5TFhZaDZFQmZVakNGRmcxZ1hVYzdidUd3LVBwRmxoSVNOS0I5Nml6aFA0RHJocXltaEhjajNIR1hnb0EzVjg1MW5RaHJXcmkwMUxrRnJtR1VZaWF0XzRxRDRGRldOOWxVcTVDRnI1bGl4TEhxNE1yYzVVbkxhdmdIWDQzNGtoNUl0TEE?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T09:54:01+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQc19LTHVLQlFHWFpZMVVxakVUaUFIUGdFSU5GazdMUGpLc0ZFQlpRR1hGSWxXbEd5TFhZaDZFQmZVakNGRmcxZ1hVYzdidUd3LVBwRmxoSVNOS0I5Nml6aFA0RHJocXltaEhjajNIR1hnb0EzVjg1MW5RaHJXcmkwMUxrRnJtR1VZaWF0XzRxRDRGRldOOWxVcTVDRnI1bGl4TEhxNE1yYzVVbkxhdmdIWDQzNGtoNUl0TEE?oc=5\" target=\"_blank\">Rockstar Games: GTA 6 verkauft 32,5 Millionen Stück und bricht alle Rekorde<"
-    },
-    {
-      "id": "c3199b5f95e03b6e",
-      "title": "6 Sterne in GTA 6: Das passiert, wenn ihr maximales Chaos verursacht - GameStar",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxWHZYbVQ5cm1ESVJNZnBQNXlCUEtZM0hiTmZNNkN0QWJ1QlBUV292MktRY1B5b0VkdUVFYmw1dDF6b2R3aS1iNW92WEd4R2lwbnBRNjEyUWVxc3NiX05mbTNIR29nY3k3WExv?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T09:43:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFAxWHZYbVQ5cm1ESVJNZnBQNXlCUEtZM0hiTmZNNkN0QWJ1QlBUV292MktRY1B5b0VkdUVFYmw1dDF6b2R3aS1iNW92WEd4R2lwbnBRNjEyUWVxc3NiX05mbTNIR29nY3k3WExv?oc=5\" target=\"_blank\">6 Sterne in GTA 6: Das passiert, wenn ihr maximales Chaos verursacht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GameStar</font>"
-    },
-    {
-      "id": "707187aa2cb0f32a",
-      "title": "GTA 6 streicht ein umstrittenes Feature, das seit Teil 3 dabei war – und das hat mit Jason und Lucia zu tun - GamePro",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNjFINXlpZXhlZWFfanVRczRjRzNEZGR1MEdKMEFVYTIxN2NSLUdUbnNyWkFkTF9YTmUzZ3p3LVBiTll1dTFQdXhrVFg1Z3pCa0FTdDRYVnFEeXBTNUNpcmpScGkwT3AyTVRzcmlEbE9KanMteW5wWlE2Q3RWbkp5elRWYk9WbkhiRjBrejltNFhTR2pOUE5HSl9Tbk45MV9GVzNGZA?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T09:29:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNNjFINXlpZXhlZWFfanVRczRjRzNEZGR1MEdKMEFVYTIxN2NSLUdUbnNyWkFkTF9YTmUzZ3p3LVBiTll1dTFQdXhrVFg1Z3pCa0FTdDRYVnFEeXBTNUNpcmpScGkwT3AyTVRzcmlEbE9KanMteW5wWlE2Q3RWbkp5elRWYk9WbkhiRjBrejltNFhTR2pOUE5HSl9Tbk45MV9GVzNGZA?oc=5\" target=\"_blank\">GTA 6 streicht ein umstrittenes Feature, das seit Teil 3 dabei war – und das hat mit Jason und Lucia zu t"
-    },
-    {
-      "id": "77ac072e53876f09",
-      "title": "GTA 6 - Interaktive Karte: Alle Sammelkarten, Fundorte von Tieren, bestimmten Autos, Magazinen und mehr - GamePro",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiaVFQRi1LUWR1RU02MUpCMUxqTy1jdHBhZElDUnBDbmlHekhfNEZ6dVQyT3A5UmhjMGpLa1ZnNmh4Ykx3c19rUWNqYVpaWkVnSjhoSktPRWFZOHd4UUduQnFqVTV6Sms2NjkxN2NCMVVXNE5tMEE?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T09:20:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBiaVFQRi1LUWR1RU02MUpCMUxqTy1jdHBhZElDUnBDbmlHekhfNEZ6dVQyT3A5UmhjMGpLa1ZnNmh4Ykx3c19rUWNqYVpaWkVnSjhoSktPRWFZOHd4UUduQnFqVTV6Sms2NjkxN2NCMVVXNE5tMEE?oc=5\" target=\"_blank\">GTA 6 - Interaktive Karte: Alle Sammelkarten, Fundorte von Tieren, bestimmten Autos, Magazinen und mehr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GamePro</font>"
-    },
-    {
-      "id": "29a1fcdf5102f432",
-      "title": "GTA 6: Review-Bombing oder berechtigte Kritik? Spieler sind gespalten - Eurogamer.de",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83SHhEYTlQMFpSUkd0b3lhVUJldmx4SWJhN3NtSzg3NDFWblNmYzRYeWItaHF4VGdtVTBsLW5SaHU4RVFaT2p0YlpfT1BNcEZmZHFyYkpvQVdvZDltSkpNTGVWZ0k5VWgyaXpaQVlnUXdWcktibkNMaXVfSFo?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T09:17:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE83SHhEYTlQMFpSUkd0b3lhVUJldmx4SWJhN3NtSzg3NDFWblNmYzRYeWItaHF4VGdtVTBsLW5SaHU4RVFaT2p0YlpfT1BNcEZmZHFyYkpvQVdvZDltSkpNTGVWZ0k5VWgyaXpaQVlnUXdWcktibkNMaXVfSFo?oc=5\" target=\"_blank\">GTA 6: Review-Bombing oder berechtigte Kritik? Spieler sind gespalten</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eurogamer.de</font>"
-    },
-    {
-      "id": "921e4652777771f6",
-      "title": "GTA 6 - Metacritic-User-Score fällt, Review-Bombing-Verdacht - PlayCentral",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fU1lBX3lrekQyNi1QMFJxRTloaXBXdWZuRmd0d0FlZVRIbE5wTzFfcW1fSUl2cnZvd1N3cUtsVnJRcmw0anpodlFlNzJNYm1idFY1TzdIdDFMNVVxcEFZeEhuZUlZNHNmZHRldEt0ekZWeE9RdWk5d2xR?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T09:10:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9fU1lBX3lrekQyNi1QMFJxRTloaXBXdWZuRmd0d0FlZVRIbE5wTzFfcW1fSUl2cnZvd1N3cUtsVnJRcmw0anpodlFlNzJNYm1idFY1TzdIdDFMNVVxcEFZeEhuZUlZNHNmZHRldEt0ekZWeE9RdWk5d2xR?oc=5\" target=\"_blank\">GTA 6 - Metacritic-User-Score fällt, Review-Bombing-Verdacht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PlayCentral</font>"
-    },
-    {
-      "id": "07bccdc9668be8e4",
-      "title": "GTA 6 FKK-Resort: So entdeckt ihr das geheime Tiki Touchdown sofort - Eurogamer.de",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EOVRKSkVkcWw1NTBIckFRSDRCMzZuOU9BZFNqNjFPNmpCY1owY0EyT3AtWjZWWEJhUlNmRDZZVlRScjhOV2k4eGxIYnVleF9aU0c3N2JhUjJsWU90Q1RINnZ4cmNKOTlGd3kzZk1PXzFuZw?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T09:03:30+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5EOVRKSkVkcWw1NTBIckFRSDRCMzZuOU9BZFNqNjFPNmpCY1owY0EyT3AtWjZWWEJhUlNmRDZZVlRScjhOV2k4eGxIYnVleF9aU0c3N2JhUjJsWU90Q1RINnZ4cmNKOTlGd3kzZk1PXzFuZw?oc=5\" target=\"_blank\">GTA 6 FKK-Resort: So entdeckt ihr das geheime Tiki Touchdown sofort</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eurogamer.de</font>"
-    },
-    {
-      "id": "c259501c7d5f1f5e",
-      "title": "„GTA VI“ spielte allein am ersten Tag fast 4 Milliarden Dollar ein - STERN.de",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlJ6ZG9qSm51SHJJajBXczFMS2VlY21wUVh2bXpRd2NMb1ZWUmQ5eUp6eWY4bUVkaktSdzZJSVJfYkM3YjIwRlBZRENtcTRSNTltNXBRYmJQUl8xQnlTZHZVVDN5NlMteHFMQ0NZZzN5OUE5d2hQa3p0YXh2emk0NkYzend3UC1mXzdLdEdJMTlIbHpYRkFfeTFaZEZDSzg4WGgtOEpPY2VHT3JyTFhjag?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T08:29:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOWlJ6ZG9qSm51SHJJajBXczFMS2VlY21wUVh2bXpRd2NMb1ZWUmQ5eUp6eWY4bUVkaktSdzZJSVJfYkM3YjIwRlBZRENtcTRSNTltNXBRYmJQUl8xQnlTZHZVVDN5NlMteHFMQ0NZZzN5OUE5d2hQa3p0YXh2emk0NkYzend3UC1mXzdLdEdJMTlIbHpYRkFfeTFaZEZDSzg4WGgtOEpPY2VHT3JyTFhjag?oc=5\" target=\"_blank\">„GTA VI“ spielte allein am ersten Tag fast 4 Milliarden Dollar ein</a>&nbsp;&nbsp;<font c"
-    },
-    {
-      "id": "b2d9c5013bd23dcc",
-      "title": "Cyberleaks geleakter GTA-6-Build: Es gibt keinen Xbox-Series-X|S-Emulator - Gamereactor Deutschland",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVFA0YTEzck5yOG1SY1VkX3BMTFpHc095bzFCM21RV2JzRFl6dktONjNDVFZYTkFtYmQzbGttSTgxNW5SNDFqUWlTNm5NTFJRRWZQV1dOMlVJaV9ZdTBsTmt6Q2NBbEw0TFk1emktTVZQd0lMWVJkcC03aDNwYU1uYVBsVEVFRzlUVlpkVW9ySF9zZkZaN2pZdzNDcWUtN0RzLUE?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T08:19:52+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOVFA0YTEzck5yOG1SY1VkX3BMTFpHc095bzFCM21RV2JzRFl6dktONjNDVFZYTkFtYmQzbGttSTgxNW5SNDFqUWlTNm5NTFJRRWZQV1dOMlVJaV9ZdTBsTmt6Q2NBbEw0TFk1emktTVZQd0lMWVJkcC03aDNwYU1uYVBsVEVFRzlUVlpkVW9ySF9zZkZaN2pZdzNDcWUtN0RzLUE?oc=5\" target=\"_blank\">Cyberleaks geleakter GTA-6-Build: Es gibt keinen Xbox-Series-X|S-Emulator</a>&nbsp;&nbsp;<font color=\"#6f6f6"
-    },
-    {
-      "id": "c2205a6d5489d26b",
-      "title": "GTA 6: So viel Zeit und Geld stecken Deutsche ins Gaming - Teltarif",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNakVuTktrTGpGT1diU3FadThoTTlFZnBBaGRTLTgyRFJYdzZMQ1RfTlhOTUpHQ1RDWGRxRVk2b2NnRmk1Y1ZFWEVMTFY2TllEZ2N1WFJSTG0wbXJVVUZWMm5QUEJvU0t6ZmRQMkZlSVpXdVpZdnR2b2FJOE5uc0M0UXoyYVU?oc=5",
-      "source": "Google News",
-      "published": "2026-11-21T08:00:00+00:00",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNakVuTktrTGpGT1diU3FadThoTTlFZnBBaGRTLTgyRFJYdzZMQ1RfTlhOTUpHQ1RDWGRxRVk2b2NnRmk1Y1ZFWEVMTFY2TllEZ2N1WFJSTG0wbXJVVUZWMm5QUEJvU0t6ZmRQMkZlSVpXdVpZdnR2b2FJOE5uc0M0UXoyYVU?oc=5\" target=\"_blank\">GTA 6: So viel Zeit und Geld stecken Deutsche ins Gaming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Teltarif</font>"
     }
   ]
 }
